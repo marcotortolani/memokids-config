@@ -14,17 +14,17 @@
     "active": "./img/sound_active_icon.png",
     "mute": "./img/sound_mute_icon.png"
   },
-  "cardBack": "../img/estrella.png",
+  "cardBack": "./img/estrella.png",
   "imgCards": [
-    "../img/01-memotest.png",
-    "../img/02-memotest.png",
-    "../img/03-memotest.png",
-    "../img/04-memotest.png",
-    "../img/05-memotest.png",
-    "../img/06-memotest.png",
-    "../img/07-memotest.png",
-    "../img/08-memotest.png",
-    "../img/09-memotest.png",
-    "../img/10-memotest.png"
+    "./img/01-memotest.png",
+    "./img/02-memotest.png",
+    "./img/03-memotest.png",
+    "./img/04-memotest.png",
+    "./img/05-memotest.png",
+    "./img/06-memotest.png",
+    "./img/07-memotest.png",
+    "./img/08-memotest.png",
+    "./img/09-memotest.png",
+    "./img/10-memotest.png"
   ]
 }
