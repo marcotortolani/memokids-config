@@ -1,5 +1,5 @@
 {
-  "logo": "../img/logo-memotest.png",
+  "logo": "./img/logo-memotest.png",
   "colors": {
     "backgroundApp": "#AB46A0",
     "borderCards": "#FFFFFF",
@@ -11,8 +11,8 @@
     }
   },
   "iconSound": {
-    "active": "../img/sound_active_icon.png",
-    "mute": "../img/sound_mute_icon.png"
+    "active": "./img/sound_active_icon.png",
+    "mute": "./img/sound_mute_icon.png"
   },
   "cardBack": "../img/estrella.png",
   "imgCards": [
