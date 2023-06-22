@@ -1,7 +1,7 @@
 {
   "logo": "https://github.com/marcotortolani/memokids-config/blob/main/img/logo-memotest.png?raw=true",
   "colors": {
-    "backgroundApp": "#AB46A0",
+    "backgroundApp": "#ab46a0",
     "borderCards": "#FFFFFF",
     "textCongrat": "#FFFFFF",
     "button": {
