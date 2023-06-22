@@ -17,14 +17,14 @@
   "cardBack": "https://github.com/marcotortolani/memokids-config/blob/main/img/estrella.png?raw=true",
   "imgCards": [
     "https://github.com/marcotortolani/memokids-config/blob/main/img/01-memotest.png?raw=true",
-    "./img/02-memotest.png",
-    "./img/03-memotest.png",
-    "./img/04-memotest.png",
-    "./img/05-memotest.png",
-    "./img/06-memotest.png",
-    "./img/07-memotest.png",
-    "./img/08-memotest.png",
-    "./img/09-memotest.png",
-    "./img/10-memotest.png"
+    "https://github.com/marcotortolani/memokids-config/blob/main/img/02-memotest.png?raw=true",
+    "https://github.com/marcotortolani/memokids-config/blob/main/img/03-memotest.png?raw=true",
+    "https://github.com/marcotortolani/memokids-config/blob/main/img/04-memotest.png?raw=true",
+    "https://github.com/marcotortolani/memokids-config/blob/main/img/05-memotest.png?raw=true",
+    "https://github.com/marcotortolani/memokids-config/blob/main/img/06-memotest.png?raw=true",
+    "https://github.com/marcotortolani/memokids-config/blob/main/img/07-memotest.png?raw=true",
+    "https://github.com/marcotortolani/memokids-config/blob/main/img/08-memotest.png?raw=true",
+    "https://github.com/marcotortolani/memokids-config/blob/main/img/09-memotest.png?raw=true",
+    "https://github.com/marcotortolani/memokids-config/blob/main/img/10-memotest.png?raw=true"
   ]
 }
