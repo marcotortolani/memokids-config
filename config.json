@@ -1,5 +1,5 @@
 {
-  "logo": "./img/logo-memotest.png",
+  "logo": "https://github.com/marcotortolani/memokids-config/blob/cc517a20e177e9e7b27afaf143f9612c9f987984/img/logo-memotest.png",
   "colors": {
     "backgroundApp": "#AB46A0",
     "borderCards": "#FFFFFF",
@@ -11,10 +11,10 @@
     }
   },
   "iconSound": {
-    "active": "./img/sound_active_icon.png",
-    "mute": "./img/sound_mute_icon.png"
+    "active": "https://github.com/marcotortolani/memokids-config/blob/cc517a20e177e9e7b27afaf143f9612c9f987984/img/sound_active_icon.png",
+    "mute": "https://github.com/marcotortolani/memokids-config/blob/cc517a20e177e9e7b27afaf143f9612c9f987984/img/sound_mute_icon.png"
   },
-  "cardBack": "./img/estrella.png",
+  "cardBack": "https://github.com/marcotortolani/memokids-config/blob/cc517a20e177e9e7b27afaf143f9612c9f987984/img/estrella.png",
   "imgCards": [
     "./img/01-memotest.png",
     "./img/02-memotest.png",
