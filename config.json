@@ -16,7 +16,7 @@
   },
   "cardBack": "https://github.com/marcotortolani/memokids-config/blob/main/img/estrella.png?raw=true",
   "imgCards": [
-    "./img/01-memotest.png",
+    "https://github.com/marcotortolani/memokids-config/blob/main/img/01-memotest.png?raw=true",
     "./img/02-memotest.png",
     "./img/03-memotest.png",
     "./img/04-memotest.png",
