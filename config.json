@@ -1,0 +1,30 @@
+{
+  "logo": "/img/logo-memotest.png",
+  "colors": {
+    "backgroundApp": "#AB46A0",
+    "borderCards": "#FFFFFF",
+    "textCongrat": "#FFFFFF",
+    "button": {
+      "bgFrom": "#03FE4E",
+      "bgTo": "#128735",
+      "text": "#FFFFFF"
+    }
+  },
+  "iconSound": {
+    "active": "/img/sound_active_icon.png",
+    "mute": "/img/sound_mute_icon.png"
+  },
+  "cardBack": "/img/estrella.png",
+  "imgCards": [
+    "/img/01-memotest.png",
+    "/img/02-memotest.png",
+    "/img/03-memotest.png",
+    "/img/04-memotest.png",
+    "/img/05-memotest.png",
+    "/img/06-memotest.png",
+    "/img/07-memotest.png",
+    "/img/08-memotest.png",
+    "/img/09-memotest.png",
+    "/img/10-memotest.png"
+  ]
+}
