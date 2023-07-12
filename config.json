@@ -1,5 +1,5 @@
 {
-  "logo": "https://github.com/marcotortolani/memokids-config/blob/main/img/logo-memotest.png?raw=true",
+  "logo": "https://raw.githubusercontent.com/marcotortolani/memokids-config/main/img/logo-memotest.webp",
   "colors": {
     "backgroundApp": "#ab46a0",
     "borderCards": "#FFFFFF",
@@ -10,21 +10,30 @@
       "text": "#FFFFFF"
     }
   },
-  "iconSound": {
-    "active": "https://github.com/marcotortolani/memokids-config/blob/main/img/sound_active_icon.png?raw=true",
-    "mute": "https://github.com/marcotortolani/memokids-config/blob/main/img/sound_mute_icon.png?raw=true"
+  "sounds": {
+    "bubblePop": "https://raw.githubusercontent.com/marcotortolani/memokids-config/main/sound/bubble-pop.mp3",
+    "cardsMatch": "https://raw.githubusercontent.com/marcotortolani/memokids-config/main/sound/cards-match.mp3",
+    "confetti": "https://raw.githubusercontent.com/marcotortolani/memokids-config/main/sound/confetti_sound.mp3",
+    "negativeToneTap": "https://raw.githubusercontent.com/marcotortolani/memokids-config/main/sound/negative-tone-tap.mp3",
+    "popClick": "https://raw.githubusercontent.com/marcotortolani/memokids-config/main/sound/pop-click.mp3"
   },
-  "cardBack": "https://github.com/marcotortolani/memokids-config/blob/main/img/estrella.png?raw=true",
-  "imgCards": [
-    "https://github.com/marcotortolani/memokids-config/blob/main/img/01-memotest.png?raw=true",
-    "https://github.com/marcotortolani/memokids-config/blob/main/img/02-memotest.png?raw=true",
-    "https://github.com/marcotortolani/memokids-config/blob/main/img/03-memotest.png?raw=true",
-    "https://github.com/marcotortolani/memokids-config/blob/main/img/04-memotest.png?raw=true",
-    "https://github.com/marcotortolani/memokids-config/blob/main/img/05-memotest.png?raw=true",
-    "https://github.com/marcotortolani/memokids-config/blob/main/img/06-memotest.png?raw=true",
-    "https://github.com/marcotortolani/memokids-config/blob/main/img/07-memotest.png?raw=true",
-    "https://github.com/marcotortolani/memokids-config/blob/main/img/08-memotest.png?raw=true",
-    "https://github.com/marcotortolani/memokids-config/blob/main/img/09-memotest.png?raw=true",
-    "https://github.com/marcotortolani/memokids-config/blob/main/img/10-memotest.png?raw=true"
-  ]
+  "images": {
+    "iconSound": {
+      "active": "https://raw.githubusercontent.com/marcotortolani/memokids-config/main/img/sound_active_icon.webp",
+      "mute": "https://raw.githubusercontent.com/marcotortolani/memokids-config/main/img/sound_mute_icon.webp"
+    },
+    "cardBack": "https://raw.githubusercontent.com/marcotortolani/memokids-config/main/img/estrella.webp",
+    "imgCards": [
+      "https://raw.githubusercontent.com/marcotortolani/memokids-config/main/img/01-memotest.webp",
+      "https://raw.githubusercontent.com/marcotortolani/memokids-config/main/img/02-memotest.webp",
+      "https://raw.githubusercontent.com/marcotortolani/memokids-config/main/img/03-memotest.webp",
+      "https://raw.githubusercontent.com/marcotortolani/memokids-config/main/img/04-memotest.webp",
+      "https://raw.githubusercontent.com/marcotortolani/memokids-config/main/img/05-memotest.webp",
+      "https://raw.githubusercontent.com/marcotortolani/memokids-config/main/img/06-memotest.webp",
+      "https://raw.githubusercontent.com/marcotortolani/memokids-config/main/img/07-memotest.webp",
+      "https://raw.githubusercontent.com/marcotortolani/memokids-config/main/img/08-memotest.webp",
+      "https://raw.githubusercontent.com/marcotortolani/memokids-config/main/img/09-memotest.webp",
+      "https://raw.githubusercontent.com/marcotortolani/memokids-config/main/img/10-memotest.webp"
+    ]
+  }
 }
