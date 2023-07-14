@@ -1,5 +1,5 @@
 {
-  "logo": "https://raw.githubusercontent.com/marcotortolani/memokids-config/main/img/logo-memotest.webp",
+  "urlHome": "http://test.mundokids.moob.club/", 
   "colors": {
     "backgroundApp": "#ab46a0",
     "borderCards": "#FFFFFF",
@@ -18,6 +18,8 @@
     "popClick": "https://raw.githubusercontent.com/marcotortolani/memokids-config/main/sound/pop-click.mp3"
   },
   "images": {
+    "logo": "https://raw.githubusercontent.com/marcotortolani/memokids-config/main/img/logo-memotest.webp",
+    "homeIcon": "https://raw.githubusercontent.com/marcotortolani/memokids-config/main/img/home-icon.webp",
     "iconSound": {
       "active": "https://raw.githubusercontent.com/marcotortolani/memokids-config/main/img/sound_active_icon.webp",
       "mute": "https://raw.githubusercontent.com/marcotortolani/memokids-config/main/img/sound_mute_icon.webp"
